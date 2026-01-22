@@ -1,0 +1,23 @@
+{
+  "contact": {
+    "firstName": "Zack",
+    "lastName": "Booth",
+    "email": "amazingman@test.com",
+    "favoriteColor": "Green",
+    "birthday": "12/12/20"
+  },
+  "contact2": {
+    "firstName": "Jeremy",
+    "lastName": "Scott",
+    "email": "jScott@test.com",
+    "favoriteColor": "Purple",
+    "birthday": "07/12/10"
+  },
+  "contact3": {
+    "firstName": "Mary",
+    "lastName": "Berry",
+    "email": "MerriedBerries@test.com",
+    "favoriteColor": "Yellow",
+    "birthday": "02/22/95"
+  }
+}
